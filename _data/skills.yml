@@ -1,12 +1,13 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Expertise
+  description: Javascript | Node.js | Express.js | React.js | MongoDB | HTML | CSS | Bootstrap | Tailwind CSS | MVC Architecture | Socket.IO | AWS EC2  | Amazon Web Services | Nginx | Redux and Redux Toolkit | JWT authentication and authorization | SQL | MYSQL | Git and Github | Vercel | EJS template Engine | node_mailer | Multer | recharts | Axios | Responsive Design | react-pdf | Route-53
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Also Tried
+  description:  Postman  | Figma | C | Material UI | Razorpay | Stripe | Paypal | Cloudinary | Mapbox
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Soft Skills
+  description:  problem-solving | critical thinking | communication skill | team work  | time management | work independently
+

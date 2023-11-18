@@ -2,15 +2,28 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: Multi-vendor Hotel Booking Website
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  # duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Finestay is a multi vendor hotel booking user-friendly platform that allows multiple hotel vendors to list their properties and manages booking seamlessly. It is also integrated with secure payment gateways, real-time booking features and guests can navigate to the hotel location from the current location using finestay navigation map features, assuring smooth user experience.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: E-commerce Website
+  role: Founder & Primary Developer
+  # duration: 2007 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Eshopper is a database-driven and user-friendly ecommerce men’s wear platform that offers a seamless shopping experience for men’s fashion and it was my first project i worked independently. The platform features a sleek and modern design, intuitive navigation, secure payment processing, providing customer satisfaction and retention. Furthermore, I implemented robust e-commerce functionalities such as product categorization, search filters, personalised recommendations, enhancing the overall user experience.
+
+  # mini projects
+  project: Netflix Clone
+  role:  Primary Developer
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: :It is created for my learning purpose and it is built with React functional components, JSX, react properties, Babel, TMDb API Integrations in react, React Styling.
+
+   project: To-do
+  role:  Primary Developer
+  # duration: 2007 &mdash; Present
+  # url: "#"
+  description: :A React project that enables CRUD operations. And this application uses local storage to persist to-do data on the client side, providing a smooth and responsive user experience. It is developed for my learning purposes.
