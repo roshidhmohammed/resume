@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mohammed Roshidh"
-resume_title:                   "Mern Full Stack Developer"
+resume_title:                   "MERN Full Stack Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "mohammedroshidh71@gmail.com"
